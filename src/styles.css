@@ -1,0 +1,75 @@
+/* body{
+    padding: 3rem 6rem 3rem 3rem;
+} */
+.navbar{
+    margin:0 0 2rem 0;
+    height: 4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+a{
+    text-decoration: none !important;
+      
+}
+a:hover{
+    color: silver;
+}
+.navbar-brand{
+    color: #C0C0C0 !important;
+    padding: 0 0 0 2rem;
+}
+.nav-link{
+    font-weight: bold;
+    font-size: large;
+}
+
+h1{
+    font-size: 15px !important;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.card-title{
+    font-weight: bold !important;
+}
+
+.product-container{
+    padding: 12%;
+}
+.card{
+    padding:1rem;
+    margin:0 0 2rem 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.inline-card{
+    display:flex;
+    flex-direction: row;
+    
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+
+img{
+    width:150px;
+    height:150px;
+}
+
+.modal-subtitle{
+    margin:0 0.5rem 0.5rem 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.cart-container{
+    padding: 2rem;
+    
+}
+
+
+.cartItem{
+    padding:2.5rem
+}
