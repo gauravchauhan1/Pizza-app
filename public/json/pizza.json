@@ -1,0 +1,187 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 350,
+      "rating": 4.5,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Small" },
+            { "size": "Medium" },
+            { "size": "Large" }
+          ]
+        }
+      ],
+      "description": "Classic margherita with fresh tomatoes, mozzarella, and basil.",
+      "img_url": "https://img.freepik.com/free-photo/pizza-margarita-table_140725-1201.jpg?size=626&ext=jpg",
+      "isVeg": true
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Feast",
+      "price": 450,
+      "rating": 4.7,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Medium" },
+            { "size": "Large" },
+            { "size": "Extra Large" }
+          ]
+        }
+      ],
+      "description": "Loaded with double pepperoni and extra mozzarella cheese.",
+      "img_url": "https://img.freepik.com/free-photo/pepperoni-pizza-with-tomato-bell-peppers-herbs-cheese_140725-5884.jpg",
+      "isVeg": false
+    },
+    {
+      "id": 3,
+      "name": "Veggie Supreme",
+      "price": 400,
+      "rating": 4.3,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Small" },
+            { "size": "Medium" },
+            { "size": "Large" }
+          ]
+        }
+      ],
+      "description": "A colorful mix of bell peppers, onions, mushrooms, and olives.",
+      "img_url": "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361771.jpg",
+      "isVeg": true
+    },
+    {
+      "id": 4,
+      "name": "BBQ Chicken",
+      "price": 500,
+      "rating": 4.8,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [{ "size": "Medium" }, { "size": "Large" }]
+        }
+      ],
+      "description": "Grilled BBQ chicken with onions, cheese, and tangy BBQ sauce.",
+      "img_url": "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361771.jpg",
+      "isVeg": false
+    },
+    {
+      "id": 5,
+      "name": "Cheese Burst",
+      "price": 380,
+      "rating": 4.6,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Small" },
+            { "size": "Medium" },
+            { "size": "Large" }
+          ]
+        }
+      ],
+      "description": "A pizza filled with layers of gooey melted cheese.",
+      "img_url": "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361763.jpg",
+      "isVeg": true
+    },
+    {
+      "id": 6,
+      "name": "Spicy Paneer",
+      "price": 420,
+      "rating": 4.4,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Small" },
+            { "size": "Medium" },
+            { "size": "Large" }
+          ]
+        }
+      ],
+      "description": "Paneer tikka with spicy seasoning, onions, and peppers.",
+      "img_url": "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361777.jpg",
+      "isVeg": true
+    },
+    {
+      "id": 7,
+      "name": "Chicken Tandoori",
+      "price": 580,
+      "rating": 4.9,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Medium" },
+            { "size": "Large" },
+            { "size": "Extra Large" }
+          ]
+        }
+      ],
+      "description": "Tandoori marinated chicken with a blend of Indian spices.",
+      "img_url": "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361771.jpg",
+      "isVeg": false
+    },
+    {
+      "id": 8,
+      "name": "Mushroom Delight",
+      "price": 350,
+      "rating": 4.2,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [{ "size": "Small" }, { "size": "Medium" }]
+        }
+      ],
+      "description": "A mushroom lover's dream with melted cheese and garlic.",
+      "img_url": "https://img.freepik.com/premium-psd/mushroom-pizza-transparent-background-with-creamy-texture_410516-119070.jpg",
+      "isVeg": true
+    },
+    {
+      "id": 9,
+      "name": "Meat Lovers",
+      "price": 600,
+      "rating": 4.7,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Medium" },
+            { "size": "Large" },
+            { "size": "Extra Large" }
+          ]
+        }
+      ],
+      "description": "A carnivore's delight with sausage, ham, and pepperoni.",
+      "img_url": "https://img.freepik.com/premium-psd/olympus-digital-camera_442610-247.jpg",
+      "isVeg": false
+    },
+    {
+      "id": 10,
+      "name": "Farmhouse",
+      "price": 390,
+      "rating": 4.5,
+      "size": [
+        {
+          "title": "Choose Your Size",
+          "items": [
+            { "size": "Small" },
+            { "size": "Medium" },
+            { "size": "Large" }
+          ]
+        }
+      ],
+      "description": "Fresh veggies like tomatoes, onions, capsicum, and corn.",
+      "img_url": "https://img.freepik.com/premium-psd/pizza-with-tomatoes-cheese-wooden-tray_617816-19087.jpg",
+      "isVeg": true
+    }
+  ]
+}
